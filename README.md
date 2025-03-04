@@ -21,7 +21,7 @@ Bu proje, trafik işaretlerini tespit etmek üzere **YOLO11N** mimarisi ile eği
 - **Model:** YOLO11N  
 - **Parametreler:** Eğitim sırasında kullanılan hiperparametreler `args.yaml` dosyasında yer almaktadır.  
 - **Loglar:** Eğitim sürecine ait detaylı log dosyası (`events.out.tfevents.*`) TensorBoard gibi araçlarla incelenebilir.  
-- **Ağırlıklar:** Eğitim sonunda elde edilen model ağırlıkları, `weights/` klasöründe saklanmaktadır (özellikle `yolo11n.pt`).
+- **Ağırlıklar:** Eğitim sonunda elde edilen model ağırlıkları, `weights/` klasöründe saklanmaktadır.
 
 ---
 
